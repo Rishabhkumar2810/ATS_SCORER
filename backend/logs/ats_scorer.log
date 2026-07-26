@@ -1,0 +1,189 @@
+2026-07-26 15:10:18,199 - INFO - Starting ATS Resume Analyzer API...
+2026-07-26 15:10:18,199 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-07-26 15:10:18,199 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-07-26 15:10:25,854 - WARNING - en_core_web_md not found — falling back to "en_core_web_sm
+2026-07-26 15:10:25,854 - WARNING - en_core_web_md not found — falling back to "en_core_web_sm
+2026-07-26 15:14:41,211 - INFO - Starting ATS Resume Analyzer API...
+2026-07-26 15:14:41,212 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-07-26 15:14:47,218 - INFO - Loaded en_core_web_md
+2026-07-26 15:14:47,218 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-07-26 15:15:05,850 - INFO - Starting ATS Resume Analyzer API...
+2026-07-26 15:15:05,850 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-07-26 15:15:11,447 - INFO - Loaded en_core_web_md
+2026-07-26 15:15:11,447 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-07-26 15:15:13,543 - INFO - Loaded all-MiniLM-L6-v2
+2026-07-26 15:15:13,543 - INFO - All models loaded. API is ready to serve requests.
+2026-07-26 15:15:30,501 - INFO - Loaded all-MiniLM-L6-v2
+2026-07-26 15:15:30,501 - INFO - All models loaded. API is ready to serve requests.
+2026-07-26 15:20:09,230 - INFO - shutting down the api!!
+2026-07-26 15:20:09,234 - INFO - shutting down the api!!
+2026-07-26 15:20:13,169 - INFO - Starting ATS Resume Analyzer API...
+2026-07-26 15:20:13,169 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-07-26 15:20:13,169 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-07-26 15:20:20,762 - INFO - Loaded en_core_web_md
+2026-07-26 15:20:20,762 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-07-26 15:20:20,762 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-07-26 15:20:45,685 - INFO - Loaded all-MiniLM-L6-v2
+2026-07-26 15:20:45,685 - INFO - All models loaded. API is ready to serve requests.
+2026-07-26 15:20:47,871 - INFO - Loaded all-MiniLM-L6-v2
+2026-07-26 15:20:47,871 - INFO - All models loaded. API is ready to serve requests.
+2026-07-26 15:22:06,726 - INFO - shutting down the api!!
+2026-07-26 15:22:06,727 - INFO - shutting down the api!!
+2026-07-26 15:22:10,877 - INFO - Starting ATS Resume Analyzer API...
+2026-07-26 15:22:10,877 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-07-26 15:22:10,877 - INFO - Starting ATS Resume Analyzer API...
+2026-07-26 15:22:10,878 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-07-26 15:22:18,620 - INFO - Loaded en_core_web_md
+2026-07-26 15:22:18,620 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-07-26 15:22:18,620 - INFO - Loaded en_core_web_md
+2026-07-26 15:22:18,620 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-07-26 15:22:44,572 - INFO - Loaded all-MiniLM-L6-v2
+2026-07-26 15:22:44,573 - INFO - All models loaded. API is ready to serve requests.
+2026-07-26 15:22:44,680 - INFO - shutting down the api!!
+2026-07-26 15:22:46,825 - INFO - Loaded all-MiniLM-L6-v2
+2026-07-26 15:22:46,825 - INFO - All models loaded. API is ready to serve requests.
+2026-07-26 15:22:46,935 - INFO - shutting down the api!!
+2026-07-26 15:22:48,382 - INFO - Starting ATS Resume Analyzer API...
+2026-07-26 15:22:48,382 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-07-26 15:22:50,127 - INFO - Starting ATS Resume Analyzer API...
+2026-07-26 15:22:50,127 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-07-26 15:22:55,002 - INFO - Loaded en_core_web_md
+2026-07-26 15:22:55,002 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-07-26 15:22:56,522 - INFO - Loaded en_core_web_md
+2026-07-26 15:22:56,522 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-07-26 15:23:15,022 - INFO - Loaded all-MiniLM-L6-v2
+2026-07-26 15:23:15,022 - INFO - All models loaded. API is ready to serve requests.
+2026-07-26 15:23:15,147 - INFO - shutting down the api!!
+2026-07-26 15:23:17,348 - INFO - Loaded all-MiniLM-L6-v2
+2026-07-26 15:23:17,348 - INFO - All models loaded. API is ready to serve requests.
+2026-07-26 15:23:17,453 - INFO - shutting down the api!!
+2026-07-26 15:23:18,904 - INFO - Starting ATS Resume Analyzer API...
+2026-07-26 15:23:18,904 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-07-26 15:23:21,004 - INFO - Starting ATS Resume Analyzer API...
+2026-07-26 15:23:21,005 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-07-26 15:23:25,222 - INFO - Loaded en_core_web_md
+2026-07-26 15:23:25,222 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-07-26 15:23:27,167 - INFO - Loaded en_core_web_md
+2026-07-26 15:23:27,167 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-07-26 15:23:43,759 - INFO - Loaded all-MiniLM-L6-v2
+2026-07-26 15:23:43,760 - INFO - All models loaded. API is ready to serve requests.
+2026-07-26 15:23:43,872 - INFO - shutting down the api!!
+2026-07-26 15:23:47,212 - INFO - Loaded all-MiniLM-L6-v2
+2026-07-26 15:23:47,213 - INFO - All models loaded. API is ready to serve requests.
+2026-07-26 15:23:48,025 - INFO - Starting ATS Resume Analyzer API...
+2026-07-26 15:23:48,025 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-07-26 15:23:57,880 - INFO - Loaded en_core_web_md
+2026-07-26 15:23:57,880 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-07-26 15:24:31,412 - INFO - Loaded all-MiniLM-L6-v2
+2026-07-26 15:24:31,412 - INFO - All models loaded. API is ready to serve requests.
+2026-07-26 15:28:34,569 - INFO - shutting down the api!!
+2026-07-26 15:28:34,601 - INFO - shutting down the api!!
+2026-07-26 15:28:47,342 - INFO - Starting ATS Resume Analyzer API...
+2026-07-26 15:28:47,342 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-07-26 15:28:47,342 - INFO - Starting ATS Resume Analyzer API...
+2026-07-26 15:28:47,342 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-07-26 15:28:54,078 - INFO - Loaded en_core_web_md
+2026-07-26 15:28:54,078 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-07-26 15:28:54,145 - INFO - Loaded en_core_web_md
+2026-07-26 15:28:54,145 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-07-26 15:29:14,036 - INFO - Loaded all-MiniLM-L6-v2
+2026-07-26 15:29:14,036 - INFO - All models loaded. API is ready to serve requests.
+2026-07-26 15:29:14,141 - INFO - shutting down the api!!
+2026-07-26 15:29:14,993 - INFO - Loaded all-MiniLM-L6-v2
+2026-07-26 15:29:14,993 - INFO - All models loaded. API is ready to serve requests.
+2026-07-26 15:29:15,108 - INFO - shutting down the api!!
+2026-07-26 15:29:18,146 - INFO - Starting ATS Resume Analyzer API...
+2026-07-26 15:29:18,147 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-07-26 15:29:18,981 - INFO - Starting ATS Resume Analyzer API...
+2026-07-26 15:29:18,982 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-07-26 15:29:24,454 - INFO - Loaded en_core_web_md
+2026-07-26 15:29:24,454 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-07-26 15:29:25,555 - INFO - Loaded en_core_web_md
+2026-07-26 15:29:25,555 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-07-26 15:29:43,245 - INFO - Loaded all-MiniLM-L6-v2
+2026-07-26 15:29:43,245 - INFO - All models loaded. API is ready to serve requests.
+2026-07-26 15:29:45,994 - INFO - Loaded all-MiniLM-L6-v2
+2026-07-26 15:29:45,994 - INFO - All models loaded. API is ready to serve requests.
+2026-07-26 15:36:04,125 - INFO - Starting ATS Resume Analyzer API...
+2026-07-26 15:36:04,125 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-07-26 15:36:10,014 - INFO - Loaded en_core_web_md
+2026-07-26 15:36:10,015 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-07-26 15:36:38,797 - INFO - Loaded all-MiniLM-L6-v2
+2026-07-26 15:36:38,797 - INFO - All models loaded. API is ready to serve requests.
+2026-07-26 15:54:11,959 - ERROR - File parsing failed: failed to find libmagic.  Check your installation
+2026-07-26 15:57:17,469 - INFO - shutting down the api!!
+2026-07-26 15:57:22,439 - INFO - Starting ATS Resume Analyzer API...
+2026-07-26 15:57:22,440 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-07-26 15:57:30,095 - INFO - Loaded en_core_web_md
+2026-07-26 15:57:30,096 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-07-26 15:57:55,991 - INFO - Loaded all-MiniLM-L6-v2
+2026-07-26 15:57:55,991 - INFO - All models loaded. API is ready to serve requests.
+2026-07-26 15:57:58,709 - INFO - parse_Resume_file: parsing file :Rishabh Resume.pdf
+2026-07-26 15:57:59,027 - INFO - parse_resume_file: Extracted 1883 chars from Rishabh Resume.pdf
+2026-07-26 15:57:59,028 - INFO - Parsed 'Rishabh Resume.pdf': 1883 chars extracted
+2026-07-26 15:57:59,558 - ERROR - Full analysis pipeline failed: invalid syntax (feedback_engine.py, line 1)
+2026-07-26 15:58:40,927 - INFO - shutting down the api!!
+2026-07-26 15:58:44,202 - INFO - Starting ATS Resume Analyzer API...
+2026-07-26 15:58:44,203 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-07-26 15:58:51,735 - INFO - Loaded en_core_web_md
+2026-07-26 15:58:51,735 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-07-26 15:59:10,091 - INFO - Loaded all-MiniLM-L6-v2
+2026-07-26 15:59:10,091 - INFO - All models loaded. API is ready to serve requests.
+2026-07-26 15:59:13,012 - INFO - parse_Resume_file: parsing file :Rishabh Resume.pdf
+2026-07-26 15:59:13,253 - INFO - parse_resume_file: Extracted 1883 chars from Rishabh Resume.pdf
+2026-07-26 15:59:13,253 - INFO - Parsed 'Rishabh Resume.pdf': 1883 chars extracted
+2026-07-26 15:59:15,602 - WARNING - Groq resume parse: first attempt returned invalid JSON, retrying...
+2026-07-26 15:59:16,652 - INFO - Groq parsed summary: 'Curious and motivated Computer Science and Engineering student with a growing interest in Data Analy'
+2026-07-26 15:59:16,652 - INFO - Groq parsed skills count: 17
+2026-07-26 15:59:16,652 - INFO - Groq parsed experience count: 0
+2026-07-26 15:59:17,625 - WARNING - History save failed (non-blocking): No module named 'backend.database'
+2026-07-26 16:00:47,036 - INFO - shutting down the api!!
+2026-07-26 16:00:50,919 - INFO - Starting ATS Resume Analyzer API...
+2026-07-26 16:00:50,919 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-07-26 16:00:59,357 - INFO - Loaded en_core_web_md
+2026-07-26 16:00:59,357 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-07-26 16:01:21,703 - INFO - Loaded all-MiniLM-L6-v2
+2026-07-26 16:01:21,703 - INFO - All models loaded. API is ready to serve requests.
+2026-07-26 16:03:39,471 - INFO - shutting down the api!!
+2026-07-26 16:03:42,705 - INFO - Starting ATS Resume Analyzer API...
+2026-07-26 16:03:42,705 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-07-26 16:03:49,012 - INFO - Loaded en_core_web_md
+2026-07-26 16:03:49,013 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-07-26 16:04:12,549 - INFO - Loaded all-MiniLM-L6-v2
+2026-07-26 16:04:12,550 - INFO - All models loaded. API is ready to serve requests.
+2026-07-26 16:04:12,654 - INFO - shutting down the api!!
+2026-07-26 16:04:17,677 - INFO - Starting ATS Resume Analyzer API...
+2026-07-26 16:04:17,677 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-07-26 16:04:26,154 - INFO - Loaded en_core_web_md
+2026-07-26 16:04:26,154 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-07-26 16:04:47,576 - INFO - Loaded all-MiniLM-L6-v2
+2026-07-26 16:04:47,576 - INFO - All models loaded. API is ready to serve requests.
+2026-07-26 16:04:50,369 - ERROR - Failed to generate PDF: 'summary.html' not found in search path: 'C:\\Users\\risha\\Desktop\\ATS_SCORER\\backend\\services\\..\\templates'
+2026-07-26 16:05:06,488 - INFO - shutting down the api!!
+2026-07-26 16:05:09,958 - INFO - Starting ATS Resume Analyzer API...
+2026-07-26 16:05:09,958 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-07-26 16:05:16,383 - INFO - Loaded en_core_web_md
+2026-07-26 16:05:16,383 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-07-26 16:05:38,375 - INFO - Loaded all-MiniLM-L6-v2
+2026-07-26 16:05:38,375 - INFO - All models loaded. API is ready to serve requests.
+2026-07-26 16:08:27,381 - INFO - shutting down the api!!
+2026-07-26 16:08:30,916 - INFO - Starting ATS Resume Analyzer API...
+2026-07-26 16:08:30,917 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-07-26 16:08:36,751 - INFO - Loaded en_core_web_md
+2026-07-26 16:08:36,752 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-07-26 16:08:56,210 - INFO - Loaded all-MiniLM-L6-v2
+2026-07-26 16:08:56,210 - INFO - All models loaded. API is ready to serve requests.
+2026-07-26 16:08:56,316 - INFO - shutting down the api!!
+2026-07-26 16:08:59,661 - INFO - Starting ATS Resume Analyzer API...
+2026-07-26 16:08:59,662 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-07-26 16:09:06,441 - INFO - Loaded en_core_web_md
+2026-07-26 16:09:06,441 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-07-26 16:09:24,735 - INFO - Loaded all-MiniLM-L6-v2
+2026-07-26 16:09:24,735 - INFO - All models loaded. API is ready to serve requests.
+2026-07-26 16:12:01,655 - INFO - shutting down the api!!
+2026-07-26 16:12:06,116 - INFO - Starting ATS Resume Analyzer API...
+2026-07-26 16:12:06,117 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-07-26 16:12:16,544 - INFO - Loaded en_core_web_md
+2026-07-26 16:12:16,544 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-07-26 16:12:44,070 - INFO - Loaded all-MiniLM-L6-v2
+2026-07-26 16:12:44,070 - INFO - All models loaded. API is ready to serve requests.
