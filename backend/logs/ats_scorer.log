@@ -187,3 +187,58 @@
 2026-07-26 16:12:16,544 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
 2026-07-26 16:12:44,070 - INFO - Loaded all-MiniLM-L6-v2
 2026-07-26 16:12:44,070 - INFO - All models loaded. API is ready to serve requests.
+2026-07-26 18:16:49,668 - INFO - Starting ATS Resume Analyzer API...
+2026-07-26 18:16:49,668 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-07-26 18:17:00,023 - INFO - Loaded en_core_web_md
+2026-07-26 18:17:00,024 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-07-26 18:17:29,526 - INFO - Loaded all-MiniLM-L6-v2
+2026-07-26 18:17:29,526 - INFO - All models loaded. API is ready to serve requests.
+2026-07-26 18:22:12,291 - INFO - Starting ATS Resume Analyzer API...
+2026-07-26 18:22:12,291 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-07-26 18:22:21,536 - INFO - Loaded en_core_web_md
+2026-07-26 18:22:21,536 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-07-26 18:22:47,619 - INFO - Loaded all-MiniLM-L6-v2
+2026-07-26 18:22:47,619 - INFO - All models loaded. API is ready to serve requests.
+2026-07-26 18:24:46,888 - INFO - Starting ATS Resume Analyzer API...
+2026-07-26 18:24:46,889 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-07-26 18:24:53,669 - INFO - Loaded en_core_web_md
+2026-07-26 18:24:53,669 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-07-26 18:25:14,985 - INFO - Loaded all-MiniLM-L6-v2
+2026-07-26 18:25:14,986 - INFO - All models loaded. API is ready to serve requests.
+2026-07-26 18:25:54,810 - INFO - parse_Resume_file: parsing file :Rishabh Resume.pdf
+2026-07-26 18:25:55,136 - INFO - parse_resume_file: Extracted 1883 chars from Rishabh Resume.pdf
+2026-07-26 18:25:55,137 - INFO - Parsed 'Rishabh Resume.pdf': 1883 chars extracted
+2026-07-26 18:25:57,785 - WARNING - Groq resume parse: first attempt returned invalid JSON, retrying...
+2026-07-26 18:25:59,137 - INFO - Groq parsed summary: 'Curious and motivated Computer Science and Engineering student with a growing interest in Data Analy'
+2026-07-26 18:25:59,137 - INFO - Groq parsed skills count: 17
+2026-07-26 18:25:59,137 - INFO - Groq parsed experience count: 0
+2026-07-26 18:26:02,041 - ERROR - Failed to save analysis to Supabase: Client error '401 Unauthorized' for url 'https://vmzsgayolpmyupogjklp.supabase.co/rest/v1/analyses'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401
+2026-07-26 18:26:17,305 - INFO - parse_Resume_file: parsing file :Rishabh Resume.docx
+2026-07-26 18:26:17,339 - INFO - resume_parser: Extracted 1945 chars from DOCX
+2026-07-26 18:26:17,340 - INFO - parse_resume_file: Extracted 1945 chars from Rishabh Resume.docx
+2026-07-26 18:26:17,340 - INFO - Parsed 'Rishabh Resume.docx': 1945 chars extracted
+2026-07-26 18:26:18,593 - WARNING - Groq resume parse: first attempt returned invalid JSON, retrying...
+2026-07-26 18:26:27,802 - INFO - Groq parsed summary: 'Curious and motivated Computer Science and Engineering student with a growing interest in Data Analy'
+2026-07-26 18:26:27,803 - INFO - Groq parsed skills count: 20
+2026-07-26 18:26:27,803 - INFO - Groq parsed experience count: 0
+2026-07-26 18:26:29,498 - ERROR - Failed to save analysis to Supabase: Client error '401 Unauthorized' for url 'https://vmzsgayolpmyupogjklp.supabase.co/rest/v1/analyses'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401
+2026-07-26 18:26:52,559 - INFO - parse_Resume_file: parsing file :Raj-Tiwari-Resume.pdf
+2026-07-26 18:26:52,802 - INFO - parse_resume_file: Extracted 2242 chars from Raj-Tiwari-Resume.pdf
+2026-07-26 18:26:52,802 - INFO - Parsed 'Raj-Tiwari-Resume.pdf': 2242 chars extracted
+2026-07-26 18:26:54,437 - WARNING - Groq resume parse: first attempt returned invalid JSON, retrying...
+2026-07-26 18:26:56,004 - INFO - Groq parsed summary: 'Results-driven and passionate web development intern with a strong foundation in both front-end and '
+2026-07-26 18:26:56,004 - INFO - Groq parsed skills count: 15
+2026-07-26 18:26:56,005 - INFO - Groq parsed experience count: 1
+2026-07-26 18:26:59,709 - ERROR - Failed to save analysis to Supabase: Client error '401 Unauthorized' for url 'https://vmzsgayolpmyupogjklp.supabase.co/rest/v1/analyses'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401
+2026-07-26 18:28:01,414 - INFO - parse_Resume_file: parsing file :G1_Semantic_Opcode_Chromosome_Implementation_Guide (1).pdf
+2026-07-26 18:28:02,322 - INFO - parse_resume_file: Extracted 14925 chars from G1_Semantic_Opcode_Chromosome_Implementation_Guide (1).pdf
+2026-07-26 18:28:02,322 - INFO - Parsed 'G1_Semantic_Opcode_Chromosome_Implementation_Guide (1).pdf': 14925 chars extracted
+2026-07-26 18:28:03,888 - WARNING - Groq resume parse: first attempt returned invalid JSON, retrying...
+2026-07-26 18:28:04,993 - INFO - Groq parsed summary: ''
+2026-07-26 18:28:04,993 - INFO - Groq parsed skills count: 17
+2026-07-26 18:28:04,993 - INFO - Groq parsed experience count: 0
+2026-07-26 18:28:07,177 - ERROR - Failed to save analysis to Supabase: Client error '401 Unauthorized' for url 'https://vmzsgayolpmyupogjklp.supabase.co/rest/v1/analyses'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401
